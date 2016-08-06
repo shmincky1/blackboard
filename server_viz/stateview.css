@@ -9,3 +9,6 @@ h1, p, td {
 .commonalitynumber {
   text-align: right;
 }
+
+h1 {
+  text-transform: capitalize;
